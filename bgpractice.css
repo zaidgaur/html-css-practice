@@ -1,0 +1,25 @@
+.navigationbar{
+    background-color: black;
+    color: white;
+    
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    background-color: aqua;
+    color: black;
+}
+.image{
+    width: 456px;
+    height: 3443px;
+    background-color:aqua;
+    background-image: url('https://imgd.aeplcdn.com//642x361//n/cw/ec/151815/mahindra-scorpio-n-right-front-three-quarter0.jpeg?isig=0&q=75');
+    background-repeat: no-repeat;
+    background-size: auto;  
+    background-position: top left;
+    background-attachment: fixed;
+    
+
+}

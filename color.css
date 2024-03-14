@@ -1,0 +1,21 @@
+
+.first{
+    color: green;
+    background-color: aqua;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 40px;
+
+
+}
+.second{
+    color: blue;
+    background-color: aqua;
+    height: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 20px;
+    margin-right: 40px;
+}
