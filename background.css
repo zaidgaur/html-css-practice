@@ -1,0 +1,17 @@
+div{
+    margin: 50px;
+    color:white;
+    background-color: rgb(255, 140, 0);
+}
+#star{
+    width: 334px;
+    height: 1754px;
+    /* background-image: url('https://imgd.aeplcdn.com//642x361//n/cw/ec/151815/mahindra-scorpio-n-right-front-three-quarter0.jpeg?isig=0&q=75'); */
+    /* background-repeat: no-repeat;
+    background-size: 232px ;
+    background-position:top;
+    background-attachment:local; */
+    background: green url('https://imgd.aeplcdn.com//642x361//n/cw/ec/151815/mahindra-scorpio-n-right-front-three-quarter0.jpeg?isig=0&q=75') no-repeat local top right
+
+
+}
