@@ -1,0 +1,67 @@
+h1{
+    color: rgb(34, 25, 13);
+}
+p{
+    
+    border: 2px solid;
+    border-color: blue ;
+    border-style: dotted;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+    font-style: italic;
+    font-variant: small-caps;    
+    
+    
+}
+h2{
+    border: 2px solid;
+    border-color: brown;
+    border-style: groove;
+    background-image: radial-gradient(  red 20%,yellow 20%,blue 20%,green 40%);
+    
+    
+}
+span{
+    display: inline-block;
+    border: 2px solid;
+    border-color:black;
+    border-style: dashed;    
+}
+b{
+    display: inline-block;
+    border: 2px solid;
+  
+}
+footer{
+    text-align: center;
+    text-decoration:dashed;
+    text-transform: uppercase;
+    text-overflow: clip;
+    text-shadow:0cap;
+    text-rendering: optimizeLegibility;
+    text-indent: 0cap;
+    text-decoration-line: underline;
+    text-size-adjust: calc(24px);
+    text-decoration-color: blue;
+    color: blueviolet;
+    text-wrap: stable;
+    text-decoration-thickness: inherit;  
+}
+div{
+    margin: 23px;
+    border: 15px solid;
+    border-color: brown;
+    padding: 23px;
+    display: inline-block;
+    transition: height 2s width 2s;
+    transition-duration: 1s ;
+   
+
+}
+div:hover{
+    width: 400px;
+    height: 200px;
+
+}

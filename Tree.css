@@ -1,0 +1,17 @@
+header{
+    color: light chocolate;
+}
+body{
+    background-image: url("https://s3-eu-west-1.amazonaws.com/blog-ecotree/blog/0001/01/ad46dbb447cd0e9a6aeecd64cc2bd332b0cbcb79.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 4565px;
+    width: 557px;
+
+    
+}
+div{
+    color:brown;
+    background-color: aliceblue;
+}
